@@ -48,7 +48,7 @@ function getLetter(s) {
             case 'k':
             case 'l':
             case 'm':
-                letter: "C";
+                letter= "C";
                 break;
             case 'n':
             case 'p':
@@ -61,7 +61,7 @@ function getLetter(s) {
             case 'x':
             case 'y':
             case 'z':
-                letter:"D";
+                letter= "D";
                 break;
             default:
                 console.log("not found");
